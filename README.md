@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is my GitHub profile. I'm 20 y.o. Front end developer from Brest/Minsk, Belarus.
+Here is my GitHub profile. I'm 22 y.o. Front end developer from Brest/Minsk, Belarus.
 
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning JS, NodeJS, ReactJS, TypeScript, NextJS, TreeJS, Linux
