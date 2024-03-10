@@ -7,9 +7,10 @@ Here is my GitHub profile. I'm 22 y.o. Front end developer from Brest/Minsk, Bel
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about my skills
-- 📫 How to reach me:
+- 📫 How to reach me: <!--
 📧 email: mmarkovets15072003@gmail.com 
 ⏩ telegram: https://t.me/AGony15
+-->
 - 😄 Pronouns: 
 - 🎨 Hobbies: coding, walking, gym
 
