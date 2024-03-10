@@ -12,3 +12,9 @@ My name is Matthew and here is my GitHub profile. I'm 20 y.o. Front end develope
 ⏩ telegram: https://t.me/AGony15
 - 😄 Pronouns: He/him
 - 🎨 Hobbies: coding, walking, gym
+
+### 🏆 Achivement
+
+## Winner of Brest TECHOPOLIS'23 hackaton (https://www.brsu.by/news/pobeda-na-hakatone-technopolis23)
+
+## Winner of University Olimpiad (https://vk.com/wall-123929363_580)
