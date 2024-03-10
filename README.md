@@ -8,7 +8,6 @@ My name is Matthew and here is my GitHub profile. I'm 20 y.o. Front end develope
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about my skills
 - 📫 How to reach me:
-- 
 📧 email: mmarkovets15072003@gmail.com 
 ⏩ telegram: https://t.me/AGony15
 - 😄 Pronouns: He/him
