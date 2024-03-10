@@ -11,3 +11,6 @@ My name is Matthew and here is my GitHub profile. I'm 20 y.o. Front end develope
     email: mmarkovets15072003@gmail.com
     telegram: https://t.me/AGony15
 - 😄 Pronouns: codding, walking, gym
+
+Here is my CV:
+![myCV](https://github.com/AG0n1/AG0n1/assets/99075096/0cfd169e-f1ad-4993-a296-c85cee6c3442)
