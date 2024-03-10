@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Matthew and here is my GitHub profile. I'm 20 y.o. Front end developer from Brest/Minsk, Belarus.
+Here is my GitHub profile. I'm 20 y.o. Front end developer from Brest/Minsk, Belarus.
 
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning JS, NodeJS, ReactJS, TypeScript, NextJS, TreeJS, Linux
@@ -13,8 +13,10 @@ My name is Matthew and here is my GitHub profile. I'm 20 y.o. Front end develope
 - 😄 Pronouns: He/him
 - 🎨 Hobbies: coding, walking, gym
 
+<!--
 ### 🏆 Achivement
 
 ## Winner of Brest TECHOPOLIS'23 hackaton (https://www.brsu.by/news/pobeda-na-hakatone-technopolis23)
 
 ## Winner of University Olimpiad (https://vk.com/wall-123929363_580)
+-->
