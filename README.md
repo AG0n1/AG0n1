@@ -2,7 +2,7 @@
 
 Here is my GitHub profile. I'm 20 y.o. Front end developer from Brest/Minsk, Belarus.
 
-- 🔭 I’m currently looking for a job
+- 🔭 I’m currently Epol Soft employee
 - 🌱 I’m currently learning JS, NodeJS, ReactJS, TypeScript, NextJS, TreeJS, Linux
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
